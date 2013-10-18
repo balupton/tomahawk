@@ -1,6 +1,13 @@
 Tomahawk
 ========
 
+<!-- BADGES/ -->
+
+[![Gittip donate button](http://img.shields.io/gittip/tomahawk.png)](https://www.gittip.com/tomahawk/ "Donate weekly to this project using Gittip")
+
+<!-- /BADGES -->
+
+
 Compiling and running Tomahawk
 ------------------------------
 
